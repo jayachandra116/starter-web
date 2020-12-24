@@ -11,6 +11,7 @@ Show different parts of git repository and various commands using a web project
 Sample website with plenty of files for demos
 
 ## How to Contribute
+please fork this repository and then pull requests for review.
 
 ## Deployment
 
