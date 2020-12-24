@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 this is a simple web project, deployment can be on any webserver or even local file system.
+
+2020 JC
